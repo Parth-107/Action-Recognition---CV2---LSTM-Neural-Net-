@@ -1,1 +1,1 @@
-# Action-Recognition---CV2---LSTM-Neural-Net-
+# Action Recognition CV2 LSTM NeuralNet
